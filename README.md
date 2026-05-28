@@ -1,14 +1,137 @@
-# 💫 About Me:
-🧑‍💻I am a Red Team Hacker, Bug Bounty Hunter, CTF player<br>📍Hackerone, Intigrity, BugCrowd, YesWeHack<br>🛠️Creating red team tools, and labs for cyber security and ethical hacking
+<div align="center">
 
+```
+ _______  _______                _______  _______  ______  _________ _______ 
+(       )(  ____ )     |\     /|(  ___  )(  ___  )(  __  \ \__   __/(  ____ \
+| () () || (    )|     | )   ( || (   ) || (   ) || (  \  )   ) (   | (    \/
+| || || || (____)|     | (___) || |   | || |   | || |   ) |   | |   | (__    
+| |(_)| ||     __)     |  ___  || |   | || |   | || |   | |   | |   |  __)   
+| |   | || (\ (        | (   ) || |   | || |   | || |   ) |   | |   | (      
+| )   ( || ) \ \__ _   | )   ( || (___) || (___) || (__/  )___) (___| (____/\
+|/     \||/   \__/(_)  |/     \|(_______)(_______)(______/ \_______/(_______/
+                                                                             
+```
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itz_mrhoodie) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mrhoodie) 
+### `whoami`
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+**Red Team Operator · Bug Bounty Hunter · CTF Player · Tool Builder**
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+*"The quieter you become, the more you can hear."*
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![HackerOne](https://img.shields.io/badge/HackerOne-%23494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/)
+[![Intigriti](https://img.shields.io/badge/Intigriti-%23FF6200?style=for-the-badge&logo=intigriti&logoColor=white)](https://intigriti.com/)
+[![BugCrowd](https://img.shields.io/badge/Bugcrowd-%23F26822?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com/)
+[![YesWeHack](https://img.shields.io/badge/YesWeHack-%23181B20?style=for-the-badge&logo=yeswehack&logoColor=white)](https://yeswehack.com/)
+
+</div>
+
+---
+
+## `cat about.txt`
+
+```bash
+$ whoami
+  > Red Team Hacker, Bug Bounty Hunter, CTF Player
+
+$ cat /etc/profile
+  > Operating across HackerOne, Intigriti, BugCrowd & YesWeHack
+  > Building offensive security tools and hands-on lab environments
+  > Turning vulnerabilities into responsible disclosures — and writeups
+
+$ ls ./interests/
+  > web_exploitation/  network_pentesting/  ctf_challenges/  tool_dev/
+```
+
+---
+
+## `./skills --list`
+
+**Offensive Security**
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-%23557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-%23FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-%232596CD?style=flat-square&logo=metasploit&logoColor=white)
+![Tor](https://img.shields.io/badge/Tor-%237E4798?style=flat-square&logo=torproject&logoColor=white)
+
+**Languages & Scripting**
+
+![Python](https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-%234EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![C](https://img.shields.io/badge/C-%23A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-%2300599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-%23000000?style=flat-square&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-%2300ADD8?style=flat-square&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Web & Infra**
+
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000000?style=flat-square&logo=flask&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-%23E10098?style=flat-square&logo=graphql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-%23D22128?style=flat-square&logo=apache&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-%23000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+**Environment**
+
+![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-%234D4D4D?style=flat-square&logo=windowsterminal&logoColor=white)
+![XFCE](https://img.shields.io/badge/XFCE-%232284F2?style=flat-square&logo=xfce&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-%23F7B93E?style=flat-square&logo=prettier&logoColor=black)
+![Markdown](https://img.shields.io/badge/Markdown-%23000000?style=flat-square&logo=markdown&logoColor=white)
+
+---
+
+## `git log --stat`
+ 
+<div align="center">
+  
+![Python](https://img.shields.io/badge/Python-Most%20Used-%233776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-2nd-%23A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-3rd-%234EAA25?style=flat-square&logo=gnubash&logoColor=white)
+ 
+![GitHub Streak](https://streak-stats.demolab.com?user=NotReallySerious&theme=radical&hide_border=true&background=0d1117&ring=ff6e6e&fire=ff6e6e&currStreakLabel=ff6e6e)
+ 
+</div>
+
+---
+
+## `ls ./trophies/`
+
+<div align="center">
+
+| Platform | Status | Focus Area |
+|----------|--------|------------|
+| 🟠 HackerOne | Active | Web App · API |
+| 🔴 Intigriti | Active | Web App · Logic Bugs |
+| 🟡 BugCrowd | Active | Network · Web |
+| 🟢 YesWeHack | Active | Full Scope |
+
+</div>
+
+---
+
+## `./contact --channels`
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
+[![Medium](https://img.shields.io/badge/Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/)
+
+*Open to: bug bounty collabs · CTF teams · red team consulting*
+
+</div>
+
+---
+
+<div align="center">
+
+```
+[ system is always watching. tread carefully. ]
+```
+
+![Visitor Count](https://komarev.com/ghpvc/?username=NotReallySerious&color=ff6e6e&style=flat-square&label=recon+attempts)
+
+</div>
