@@ -92,7 +92,7 @@ $ ls ./interests/
 ![C](https://img.shields.io/badge/C-2nd-%23A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-3rd-%234EAA25?style=flat-square&logo=gnubash&logoColor=white)
  
-![GitHub Streak](https://streak-stats.demolab.com?user=NotReallySerious&theme=radical&hide_border=true&background=0d1117&ring=ff6e6e&fire=ff6e6e&currStreakLabel=ff6e6e)
+![GitHub Streak](https://streak-stats.demolab.com?user=HoodieSec&theme=radical&hide_border=true&background=0d1117&ring=ff6e6e&fire=ff6e6e&currStreakLabel=ff6e6e)
  
 </div>
 
